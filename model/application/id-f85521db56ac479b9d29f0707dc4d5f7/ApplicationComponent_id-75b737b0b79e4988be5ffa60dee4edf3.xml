@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application 2"
+    id="id-75b737b0b79e4988be5ffa60dee4edf3"
+    documentation="An application component represents an encapsulation of application functionality aligned to implementation structure, which is modular and replaceable.&#xD;&#xA;Guideline: &#xD;&#xA;1. Top level: VGAC APM ID and Name&#xD;&#xA;2. Breakdown Application Components, as a Noun&#xD;&#xA;Example:&#xD;&#xA;- Business application e.g. VFS Connect&#xD;&#xA;- Calculation Engine&#xD;&#xA;- Document Generation Component&#xD;&#xA;Usage:&#xD;&#xA;Application Component - (assignment to) -> Application Function&#xD;&#xA;Application Component - (composition to) -> Application Interface"/>

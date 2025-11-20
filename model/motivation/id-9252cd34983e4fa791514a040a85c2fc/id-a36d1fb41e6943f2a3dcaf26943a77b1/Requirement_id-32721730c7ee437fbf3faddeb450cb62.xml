@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consult the application's documentation to disable SSL 2.0 and use SSL 3.0, TLS 1.3 or higher instead"
+    id="id-32721730c7ee437fbf3faddeb450cb62"
+    documentation="Control Measure"/>

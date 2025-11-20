@@ -1,0 +1,108 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01.Business Capabilities &amp; Application Mapping View"
+    id="id-f8a10bdd2e374ac49ce5bf40e25aecd1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1be7a920f74445f98857cf3a31090953"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-aae361031ba24b68afa052e91621f04d"
+        source="id-1be7a920f74445f98857cf3a31090953"
+        target="id-edd5f3c0dccc49918cb843a293ab7f87">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-e7b7e7da87a448ec985bf29e7b9cab56.xml#id-e7b7e7da87a448ec985bf29e7b9cab56"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fc57532715814e10858ebddc9ab8429d"
+        source="id-1be7a920f74445f98857cf3a31090953"
+        target="id-3a9ef0e3be3349cb9cfb29e0d46f07a0">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-e8273d2af67d4289b710c355ba30de45.xml#id-e8273d2af67d4289b710c355ba30de45"/>
+    </sourceConnections>
+    <bounds
+        x="96"
+        y="84"
+        width="169"
+        height="247"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-27a9510086dd40cda6f6791fab9288e1.xml#id-27a9510086dd40cda6f6791fab9288e1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-edd5f3c0dccc49918cb843a293ab7f87"
+      targetConnections="id-aae361031ba24b68afa052e91621f04d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f87b08d19aff48c4bf2d2f0b0593aaa5"
+        source="id-edd5f3c0dccc49918cb843a293ab7f87"
+        target="id-3a9ef0e3be3349cb9cfb29e0d46f07a0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-0c17fbf560de4dfbab05ae00cda8b8bd.xml#id-0c17fbf560de4dfbab05ae00cda8b8bd"/>
+    </sourceConnections>
+    <bounds
+        x="420"
+        y="84"
+        width="193"
+        height="247"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3a9ef0e3be3349cb9cfb29e0d46f07a0"
+        targetConnections="id-f87b08d19aff48c4bf2d2f0b0593aaa5 id-fc57532715814e10858ebddc9ab8429d"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="60"
+          width="120"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-c4882b587b41428f9e9fe5c4bf7a6221.xml#id-c4882b587b41428f9e9fe5c4bf7a6221"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-5ded60a5423b4ba5b791ea771c9341dd.xml#id-5ded60a5423b4ba5b791ea771c9341dd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c3809522314c4567a9538f966f89053c"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="$view{property:Last Update}"/>
+    <bounds
+        x="528"
+        y="48"
+        width="185"
+        height="34"/>
+    <properties
+        key="Last Update"
+        value="Updated at 2021/5/13"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-01c17d751e4342d7a70ff4f47f617bfc"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
+    <bounds
+        x="112"
+        y="26"
+        width="356"
+        height="34"/>
+  </children>
+  <properties
+      key="Last Update"
+      value="Diagram Updated at 2022/3/23"/>
+</archimate:ArchimateDiagramModel>

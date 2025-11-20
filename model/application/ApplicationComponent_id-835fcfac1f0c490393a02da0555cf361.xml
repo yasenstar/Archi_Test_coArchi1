@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="019222_VFS Connect"
+    id="id-835fcfac1f0c490393a02da0555cf361"
+    documentation="https://volvogroup.sharepoint.com/:f:/r/sites/coll-vfs-application-portfolio/Shared%20Documents/PM%20EMEA">
+  <properties
+      key="APM ID"
+      value="19222"/>
+  <properties
+      key="SSO"
+      value="Yes"/>
+</archimate:ApplicationComponent>

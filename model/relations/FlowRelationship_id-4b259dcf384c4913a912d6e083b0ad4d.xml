@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Create Sales Invoice / Credit Note"
+    id="id-4b259dcf384c4913a912d6e083b0ad4d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ac016d25c2e8438c99728a2f3db2193d.xml#id-ac016d25c2e8438c99728a2f3db2193d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d6e65b8d021f44aeb2413566e449a494.xml#id-d6e65b8d021f44aeb2413566e449a494"/>
+</archimate:FlowRelationship>

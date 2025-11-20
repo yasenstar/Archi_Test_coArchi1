@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TBD"
+    id="id-97844d3d17b4489db7719c5c8203ebd9">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-7058040025304b7989ea715b9004778e.xml#id-7058040025304b7989ea715b9004778e"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-10ac49c3a8e348c1b55c88eedfb20f36.xml#id-10ac49c3a8e348c1b55c88eedfb20f36"/>
+</archimate:ServingRelationship>

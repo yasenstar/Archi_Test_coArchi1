@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="110224_API Platform"
+    id="id-6f8ba3e0ec434aa4ba821c3ce662ded1">
+  <properties
+      key="Stereotype"
+      value="«VFS API Gateway»"/>
+</archimate:Node>

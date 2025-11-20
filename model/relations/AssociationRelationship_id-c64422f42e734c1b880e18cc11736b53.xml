@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c64422f42e734c1b880e18cc11736b53">
+  <properties
+      key="Maturity_Level"
+      value="L2 - peolee"/>
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-0d87508a62964c6790d477db067241b8.xml#id-0d87508a62964c6790d477db067241b8"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_id-400433a367da4fe6a803a4e018ac158e.xml#id-400433a367da4fe6a803a4e018ac158e"/>
+</archimate:AssociationRelationship>

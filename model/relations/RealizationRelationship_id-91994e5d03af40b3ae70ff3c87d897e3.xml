@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decommission"
+    id="id-91994e5d03af40b3ae70ff3c87d897e3">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-8d1ab22747d24b0fa976171b8284ec9c.xml#id-8d1ab22747d24b0fa976171b8284ec9c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-438876b4a5fd4014b12d4cb2b6e6b2b8.xml#id-438876b4a5fd4014b12d4cb2b6e6b2b8"/>
+</archimate:RealizationRelationship>

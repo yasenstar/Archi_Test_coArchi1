@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e4ea61f11dd44034994dd0e44d1797f9">
+  <properties
+      key="Initiative_to_Solution"
+      value="Decommission"/>
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-fc93289d9d424c01b270ba0f9f65dad6.xml#id-fc93289d9d424c01b270ba0f9f65dad6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4dcaa0a2f1f447cda7f81e7986047466.xml#id-4dcaa0a2f1f447cda7f81e7986047466"/>
+</archimate:AssociationRelationship>

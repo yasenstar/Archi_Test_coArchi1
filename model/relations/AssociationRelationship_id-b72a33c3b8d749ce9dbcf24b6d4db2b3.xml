@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b72a33c3b8d749ce9dbcf24b6d4db2b3">
+  <properties
+      key="Product Lifecycle"
+      value="OFFERED"/>
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-84a7f7819d924c27b266884c574c27b9.xml#id-84a7f7819d924c27b266884c574c27b9"/>
+  <target
+      xsi:type="archimate:AggregationRelationship"
+      href="AggregationRelationship_id-c2d92218d6d342e58ab123977112e871.xml#id-c2d92218d6d342e58ab123977112e871"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,14 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy (e.g. for AML)"
+    id="id-1b3422e91b6f4f74b5c81c77bfdd5783">
+  <properties
+      key="Local Language"
+      value="(Name in Local Language)"/>
+  <properties
+      key="Policy Classification"
+      value="Law; Administrative Regulations; Department Regulations; Impotant Notice"/>
+  <properties
+      key="Policy Category"
+      value="Internal; External"/>
+</archimate:Constraint>

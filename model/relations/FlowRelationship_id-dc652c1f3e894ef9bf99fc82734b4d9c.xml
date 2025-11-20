@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="48.3 - Vendor Details Request"
+    id="id-dc652c1f3e894ef9bf99fc82734b4d9c">
+  <properties
+      key="Connectivity Type"
+      value="HTTPS"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-605afa328d614f23a081229a3b1d9584.xml#id-605afa328d614f23a081229a3b1d9584"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-2e5650e89ae74087a837d438b601391b.xml#id-2e5650e89ae74087a837d438b601391b"/>
+</archimate:FlowRelationship>

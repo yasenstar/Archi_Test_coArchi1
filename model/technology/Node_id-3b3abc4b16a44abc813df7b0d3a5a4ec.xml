@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Adaptor"
+    id="id-3b3abc4b16a44abc813df7b0d3a5a4ec">
+  <properties
+      key="Stereotype"
+      value="«Azure Function App»"/>
+</archimate:Node>

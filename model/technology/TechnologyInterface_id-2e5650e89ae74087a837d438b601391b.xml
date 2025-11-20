@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendor Details API"
+    id="id-2e5650e89ae74087a837d438b601391b">
+  <properties
+      key="Stereotype"
+      value="«System API»"/>
+</archimate:TechnologyInterface>

@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="48.8 - Vendor Details (XML)"
+    id="id-814c6e62e05d47ec9eb80f20858c7c93">
+  <properties
+      key="Connectivity Type"
+      value="MQ"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-9c7d3b131071450c8c5987a3d7318af9.xml#id-9c7d3b131071450c8c5987a3d7318af9"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-af01fcd70c95442da244464e9d526658.xml#id-af01fcd70c95442da244464e9d526658"/>
+</archimate:FlowRelationship>

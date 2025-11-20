@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client PC"
+    id="id-c426b0097b44488a9ed77e775a65ee12">
+  <properties
+      key="IP Address"
+      value="192.168.1.188"/>
+</archimate:Device>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Mover App"
+    id="id-51fc80574a36477b854cf1a39e259fe2">
+  <properties
+      key="Stereotype"
+      value="«Azure Function App»"/>
+</archimate:Node>

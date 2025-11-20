@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-60e8076dbdcf4befb3e9716a26dbc3e7">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-f6eb89756c3b4035bd0fadfb6d236187.xml#id-f6eb89756c3b4035bd0fadfb6d236187"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-6d67c9feda63492f845cb004ecff076a.xml#id-6d67c9feda63492f845cb004ecff076a"/>
+</archimate:TriggeringRelationship>

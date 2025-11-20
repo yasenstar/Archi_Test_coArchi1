@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f735eddc3cb147b8bc49a18f13db2b62">
+  <properties
+      key="Initiative_to_Solution"
+      value="Decommission"/>
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-e9a7ba0e5ebf460b91a207057754e8a2.xml#id-e9a7ba0e5ebf460b91a207057754e8a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3f1befe50ee741319f5cafb8531636b3.xml#id-3f1befe50ee741319f5cafb8531636b3"/>
+</archimate:RealizationRelationship>

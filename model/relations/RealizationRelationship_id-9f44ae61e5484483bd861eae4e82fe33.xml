@@ -1,0 +1,14 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9f44ae61e5484483bd861eae4e82fe33">
+  <properties
+      key="Initiative_to_Solution"
+      value="New Introduce"/>
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-e9a7ba0e5ebf460b91a207057754e8a2.xml#id-e9a7ba0e5ebf460b91a207057754e8a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ee881c0bf7524f079d522d97dedf04f0.xml#id-ee881c0bf7524f079d522d97dedf04f0"/>
+</archimate:RealizationRelationship>

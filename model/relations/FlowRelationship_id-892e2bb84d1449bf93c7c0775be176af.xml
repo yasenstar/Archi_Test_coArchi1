@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="48.5 - Vendor Details (JSON)"
+    id="id-892e2bb84d1449bf93c7c0775be176af">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-8265593a02594fd48d3d47447609391f.xml#id-8265593a02594fd48d3d47447609391f"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-2e5650e89ae74087a837d438b601391b.xml#id-2e5650e89ae74087a837d438b601391b"/>
+</archimate:FlowRelationship>

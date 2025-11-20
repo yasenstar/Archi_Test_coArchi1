@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Central Azure Storage"
+    id="id-040303b1c8634125a9dfac5b8fdcd01a">
+  <properties
+      key="Stereotype"
+      value="«Azure Storage Account»"/>
+</archimate:Node>

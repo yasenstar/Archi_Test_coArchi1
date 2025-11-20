@@ -1,0 +1,8 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice API"
+    id="id-582fe8d576334bb29ec44ddb1080cfc1">
+  <properties
+      key="Stereotype"
+      value="«System API»"/>
+</archimate:TechnologyInterface>

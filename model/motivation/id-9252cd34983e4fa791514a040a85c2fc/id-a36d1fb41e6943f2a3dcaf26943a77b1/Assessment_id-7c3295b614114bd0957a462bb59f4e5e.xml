@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminal Services Encryption Level is not FIPS-140 Compliant"
+    id="id-7c3295b614114bd0957a462bb59f4e5e"
+    documentation="Vulnerability"/>

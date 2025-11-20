@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="019202_LEO"
+    id="id-ac016d25c2e8438c99728a2f3db2193d"
+    documentation="https://volvogroup.sharepoint.com/:f:/r/sites/coll-vfs-application-portfolio/Shared%20Documents/LEO">
+  <properties
+      key="APM ID"
+      value="19202"/>
+  <properties
+      key="SSO"
+      value="No"/>
+</archimate:ApplicationComponent>

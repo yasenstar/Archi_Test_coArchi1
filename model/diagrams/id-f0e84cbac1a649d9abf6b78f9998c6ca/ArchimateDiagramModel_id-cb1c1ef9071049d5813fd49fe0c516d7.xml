@@ -1,0 +1,144 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standard-and-Abstract-Capability"
+    id="id-cb1c1ef9071049d5813fd49fe0c516d7">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b36e3fb6e9f643ab81755dd876dbcae4"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
+    <bounds
+        x="189"
+        y="36"
+        width="451"
+        height="34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f8c1dbbea8844c5aa03eb184672b7a36"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="Last Updated at: $view{property:Last Updated}&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+    <bounds
+        x="639"
+        y="36"
+        width="185"
+        height="49"/>
+    <properties
+        key="Last Update"
+        value="Updated at 2021/5/13"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-960703d5b8e24c8c9836cc54fe815d2e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-16a4c93203c04dbdbea8f488fc64f6b6"
+        source="id-960703d5b8e24c8c9836cc54fe815d2e"
+        target="id-c48870224db64408babec928c8d9ab15">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-aaf86234746c452cb853859154731703.xml#id-aaf86234746c452cb853859154731703"/>
+    </sourceConnections>
+    <bounds
+        x="445"
+        y="255"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-8f6b34926aa247d8aa3a863327eb7fa1.xml#id-8f6b34926aa247d8aa3a863327eb7fa1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c48870224db64408babec928c8d9ab15"
+      targetConnections="id-16a4c93203c04dbdbea8f488fc64f6b6">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d050fb6306bf4f2daa016be391aa8de8"
+        source="id-c48870224db64408babec928c8d9ab15"
+        target="id-6111b8c69bf44da094d3e1bf757e7f33">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-64ef319f0d324c45842e82fe6887e5e8.xml#id-64ef319f0d324c45842e82fe6887e5e8"/>
+    </sourceConnections>
+    <bounds
+        x="204"
+        y="107"
+        width="422"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-f3e1d0488c71421f93bbd7ba9076c2aa.xml#id-f3e1d0488c71421f93bbd7ba9076c2aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6111b8c69bf44da094d3e1bf757e7f33"
+      targetConnections="id-d050fb6306bf4f2daa016be391aa8de8">
+    <bounds
+        x="204"
+        y="255"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-45512ca417104b0eb1b41c36b0c84b9d.xml#id-45512ca417104b0eb1b41c36b0c84b9d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8b326078df4e40829c6c1b7ef1380964"
+      textAlignment="1"
+      content="Case Management is a type of Request Handling Management --> translated as &quot;Case Management&quot; is a specialization&#xD;&#xA; of &quot;Request Handling Management&quot;">
+    <bounds
+        x="570"
+        y="169"
+        width="259"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b8f7c8555a984646b96f07e83e576fc8"
+      textAlignment="1"
+      content="This is normal hierarchy, using Composition relation">
+    <bounds
+        x="130"
+        y="179"
+        width="135"
+        height="62"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c3c76faae6d24afe97ec8bf6769631d1"
+      textAlignment="1"
+      content="Proparty: Capability Organization&#xD;&#xA;Value: VFS Abstract">
+    <bounds
+        x="205"
+        y="327"
+        width="185"
+        height="46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2da69f6f50e54ebfae07a6a3d8166364"
+      textAlignment="1"
+      content="Proparty: Capability Organization&#xD;&#xA;Value: VFS">
+    <bounds
+        x="443"
+        y="327"
+        width="185"
+        height="46"/>
+  </children>
+  <properties
+      key="Last Updated"
+      value="2024/12/4"/>
+  <properties
+      key="Last Updated by"
+      value="Xiaoqi Zhao"/>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SFTP: Business Entity C"
+    id="id-59bf07ff58c347c3a5a0d908c3f8281f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-27a9510086dd40cda6f6791fab9288e1.xml#id-27a9510086dd40cda6f6791fab9288e1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-98a36c71159e4d88ab70ae014aee4275.xml#id-98a36c71159e4d88ab70ae014aee4275"/>
+</archimate:FlowRelationship>

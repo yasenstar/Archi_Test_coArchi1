@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.2 API: Invoice Request"
+    id="id-b5078b1a48a24e00ac1cbd9ed3ea9c53">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-5dcbfe38aa464765bc7025e8b3455e32.xml#id-5dcbfe38aa464765bc7025e8b3455e32"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-8aa7ac69e6da44b1954e150505aadcc4.xml#id-8aa7ac69e6da44b1954e150505aadcc4"/>
+</archimate:FlowRelationship>

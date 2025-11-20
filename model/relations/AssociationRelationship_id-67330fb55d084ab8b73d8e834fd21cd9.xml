@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-67330fb55d084ab8b73d8e834fd21cd9">
+  <properties
+      key="DA Result"
+      value="Green"/>
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-d274d2df9d1043349bd7e7f11368579c.xml#id-d274d2df9d1043349bd7e7f11368579c"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-5fe9533897024ffcb7691717ba8b9e34.xml#id-5fe9533897024ffcb7691717ba8b9e34"/>
+</archimate:AssociationRelationship>

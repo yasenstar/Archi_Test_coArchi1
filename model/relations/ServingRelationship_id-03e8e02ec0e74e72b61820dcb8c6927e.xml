@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="What relationship to model?"
+    id="id-03e8e02ec0e74e72b61820dcb8c6927e">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-00263817838341c68070278a82bbbf0f.xml#id-00263817838341c68070278a82bbbf0f"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-e0c94e73175b4c659c0fac6b1c36f36e.xml#id-e0c94e73175b4c659c0fac6b1c36f36e"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="019222_VFS Connect"
+    id="id-af01fcd70c95442da244464e9d526658">
+  <properties
+      key="Stereotype"
+      value="«VFS Managed On-Prem System»"/>
+</archimate:Node>

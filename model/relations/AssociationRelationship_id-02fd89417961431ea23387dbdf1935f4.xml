@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-02fd89417961431ea23387dbdf1935f4">
+  <properties
+      key="Maturity_Level"
+      value="L3 - Regional Coverage"/>
+  <source
+      xsi:type="archimate:Location"
+      href="Location_id-af7f23b01622449bab699e67cc1d225b.xml#id-af7f23b01622449bab699e67cc1d225b"/>
+  <target
+      xsi:type="archimate:AssociationRelationship"
+      href="AssociationRelationship_id-c8d3930126364097a136098575b0b227.xml#id-c8d3930126364097a136098575b0b227"/>
+</archimate:AssociationRelationship>

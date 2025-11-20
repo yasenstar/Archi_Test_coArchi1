@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Move Files"
+    id="id-45b9c19102a04c48951b979af037f3b6">
+  <properties
+      key="Connectivity Type"
+      value="API"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-51fc80574a36477b854cf1a39e259fe2.xml#id-51fc80574a36477b854cf1a39e259fe2"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-040303b1c8634125a9dfac5b8fdcd01a.xml#id-040303b1c8634125a9dfac5b8fdcd01a"/>
+</archimate:FlowRelationship>

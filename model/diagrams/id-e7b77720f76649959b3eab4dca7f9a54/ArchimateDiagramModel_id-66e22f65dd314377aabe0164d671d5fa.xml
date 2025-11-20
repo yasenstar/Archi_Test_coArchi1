@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="08.Any Other Views That Matter"
+    id="id-66e22f65dd314377aabe0164d671d5fa">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-11b02a7b36144cbc966999da99efd86b"
+      font="1|Arial|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
+      fillColor="#0080ff"
+      content="Any views that matter for you and your stakeholders"
+      textPosition="1">
+    <bounds
+        x="84"
+        y="60"
+        width="539"
+        height="162"/>
+  </children>
+</archimate:ArchimateDiagramModel>

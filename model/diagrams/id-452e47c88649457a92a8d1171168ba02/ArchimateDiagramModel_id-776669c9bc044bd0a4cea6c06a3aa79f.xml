@@ -1,0 +1,115 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Modeling (minimum elements)"
+    id="id-776669c9bc044bd0a4cea6c06a3aa79f">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-057de26ba87348c4baa98a7e1b46598f"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
+    <bounds
+        x="288"
+        y="48"
+        width="356"
+        height="34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-29c3edbf8f2843b59057491005997685">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;&lt;&lt;${type}>>"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9c6852fa05f3488aa8462684cd6ebbb4"
+        source="id-29c3edbf8f2843b59057491005997685"
+        target="id-96238cd2a31d4500ae1c5098c8b9d7ad">
+      <features
+          name="labelExpression"
+          value="${type}"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-45c566cb53c4490bbfe4fe609a0d1445.xml#id-45c566cb53c4490bbfe4fe609a0d1445"/>
+    </sourceConnections>
+    <bounds
+        x="696"
+        y="96"
+        width="149"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-637cea6cdf9f413d83ce7ad860d6fdb7.xml#id-637cea6cdf9f413d83ce7ad860d6fdb7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-96238cd2a31d4500ae1c5098c8b9d7ad"
+      targetConnections="id-9c6852fa05f3488aa8462684cd6ebbb4">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;&lt;&lt;${type}>>"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-46ee636690424020a265f8b74926d750"
+        source="id-96238cd2a31d4500ae1c5098c8b9d7ad"
+        target="id-a4511db0aaf344a1b289e10652f974f1">
+      <features
+          name="labelExpression"
+          value="${type}"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-8779c109443e4622874924a216370983.xml#id-8779c109443e4622874924a216370983"/>
+    </sourceConnections>
+    <bounds
+        x="420"
+        y="96"
+        width="149"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-f6f6c7333ddb44f9a2478373b339549a.xml#id-f6f6c7333ddb44f9a2478373b339549a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a4511db0aaf344a1b289e10652f974f1"
+      targetConnections="id-46ee636690424020a265f8b74926d750">
+    <features
+        name="labelExpression"
+        value="${name}&#xD;&#xA;&lt;&lt;${type}>>"/>
+    <bounds
+        x="132"
+        y="96"
+        width="153"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-358c940e15054b8ab2eda49e0b8e24e3.xml#id-358c940e15054b8ab2eda49e0b8e24e3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f05e52610e83431da58d7f83c63163f6"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="Last Updated at: $view{property:Last Update}&#xD;&#xA;Last Updated by: $view{property:Last Updated by}"/>
+    <bounds
+        x="660"
+        y="168"
+        width="185"
+        height="49"/>
+    <properties
+        key="Last Update"
+        value="Updated at 2021/5/13"/>
+  </children>
+  <properties
+      key="Last Update"
+      value="2022/10/10"/>
+  <properties
+      key="Last Updated by"
+      value="Xiaoqi Zhao"/>
+</archimate:ArchimateDiagramModel>

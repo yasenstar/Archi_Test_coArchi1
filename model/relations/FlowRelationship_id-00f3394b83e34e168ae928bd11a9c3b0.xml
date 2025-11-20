@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API 48 : Vendor Details"
+    id="id-00f3394b83e34e168ae928bd11a9c3b0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-835fcfac1f0c490393a02da0555cf361.xml#id-835fcfac1f0c490393a02da0555cf361"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d6e65b8d021f44aeb2413566e449a494.xml#id-d6e65b8d021f44aeb2413566e449a494"/>
+</archimate:FlowRelationship>

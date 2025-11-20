@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JournalEntry XML"
+    id="id-3cb13467085f412cb391176fc40f4938">
+  <properties
+      key="Connectivity Type"
+      value="API"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-e939ce6299904d91970a1c32dfeadaab.xml#id-e939ce6299904d91970a1c32dfeadaab"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-040303b1c8634125a9dfac5b8fdcd01a.xml#id-040303b1c8634125a9dfac5b8fdcd01a"/>
+</archimate:FlowRelationship>

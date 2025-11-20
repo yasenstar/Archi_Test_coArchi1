@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="117712_VFS Accounting Engine"
+    id="id-7d92c515dae6496490a814753e07c87f"
+    documentation="Old name: 117712_VFS Fin. Platform Accounting Engine">
+  <properties
+      key="APM ID"
+      value="117712"/>
+  <properties
+      key="SSO"
+      value="No"/>
+</archimate:ApplicationComponent>

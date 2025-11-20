@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JournalEntry XML"
+    id="id-adcb8674d4004d60946c24465847bfa0">
+  <properties
+      key="Connectivity Type"
+      value="SFTP"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-11245178f3704a1a9f8fe3c40325bc30.xml#id-11245178f3704a1a9f8fe3c40325bc30"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-d3a6e6f516654cda8bcc10156ea1b0e3.xml#id-d3a6e6f516654cda8bcc10156ea1b0e3"/>
+</archimate:FlowRelationship>

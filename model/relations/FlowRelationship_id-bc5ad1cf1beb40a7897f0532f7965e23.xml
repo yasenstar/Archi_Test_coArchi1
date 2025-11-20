@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SFTP: Data (XML, JSON, CSV ...)"
+    id="id-bc5ad1cf1beb40a7897f0532f7965e23">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-4e465688e2dc4ab9ab718a4b82eb7b6b.xml#id-4e465688e2dc4ab9ab718a4b82eb7b6b"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-d3a6e6f516654cda8bcc10156ea1b0e3.xml#id-d3a6e6f516654cda8bcc10156ea1b0e3"/>
+</archimate:FlowRelationship>
