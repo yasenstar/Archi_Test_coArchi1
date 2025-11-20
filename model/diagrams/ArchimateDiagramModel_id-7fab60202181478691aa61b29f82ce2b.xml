@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test View"
+    id="id-7fab60202181478691aa61b29f82ce2b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8c9d617751514dc884ee76b58704f013">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-88fa7ea898864ab1826a2f16657a67fd"
+        source="id-8c9d617751514dc884ee76b58704f013"
+        target="id-601286673185437fa558fca0b4074b5a">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-f6b1d052e5b749068b99ef30b24c827b.xml#id-f6b1d052e5b749068b99ef30b24c827b"/>
+    </sourceConnections>
+    <bounds
+        x="105"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-98b8f6fcfbff4103a9d41f1239ebdb15.xml#id-98b8f6fcfbff4103a9d41f1239ebdb15"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-601286673185437fa558fca0b4074b5a"
+      targetConnections="id-88fa7ea898864ab1826a2f16657a67fd">
+    <bounds
+        x="97"
+        y="455"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-9a42388d911d4f11a01b083b0ba5186c.xml#id-9a42388d911d4f11a01b083b0ba5186c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
